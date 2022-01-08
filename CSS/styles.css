@@ -1,0 +1,212 @@
+body{
+  margin: 0;
+}
+
+h1{
+  margin-top: 15px;
+  font-size: 2.1875rem;
+  font-family: 'Rock 3D', cursive;
+}
+
+p{
+font-family: 'Martel', serif;
+}
+
+.subtitle{
+  font-size: 1.125rem;
+  margin-bottom: 30px;
+}
+
+div{
+  height: 720px;
+}
+
+img{
+  width: 30%;
+}
+
+.top-container{
+  background-color: #f3f4f0;
+  position: relative;
+  text-align: center;
+}
+
+.Begrüßung{
+  position: absolute;
+  right: 49%;
+  top: 38%;
+}
+
+.middle-container{
+  background-color: #a7adad;
+}
+
+.bottom-container{
+  background-color: #5b2423;
+  position: relative;
+}
+
+.end{
+  background-color: #c29c93;
+}
+
+.Baum{
+  position: absolute;
+  right: 0;
+  top: 50px;
+  width: 55%;
+}
+
+.Dekoblätter{
+  width: 15%;
+}
+
+
+#Töpfergif {
+  position: relative;
+  left: 15%;
+  top: 30%;
+  width:20%;
+  border-radius: 100%;
+}
+
+#Töpfertext{
+  position: relative;
+  display: inline-block;
+  left: 15%;
+  top: 15%;
+  margin-left: 100px;
+  width: 40%;
+}
+
+#Webdevgif {
+  position: relative;
+  display: inline-block;
+  left: 15%;
+  top: 25%;
+  border-radius: 30px;
+}
+
+#Webdevtext{
+  position: relative;
+  display: inline-block;
+  left: 15%;
+  top: 10%;
+  margin-right: 100px;
+  width: 40%;
+  color: #f3f4f0;
+  border-radius: 30px;
+  height: auto;
+  padding: 15px;
+}
+
+
+#Yogagif {
+  position: relative;
+  left: 15%;
+  top: 25%;
+  width:40%;
+  border-radius: 30px;
+}
+
+#Yogatext{
+  position: relative;
+  display: inline-block;
+  left: 15%;
+  top: 0%;
+  margin-left: 100px;
+  width: 30%;
+}
+
+
+.Kontaktaufnahme{
+  text-align: center;
+}
+
+#JanaLoki{
+  border-radius: 100%;
+  width: 10%;
+  margin: 50px auto 30px auto;
+  display: block;
+  }
+
+#Trennlinie{
+  margin-top: 100px;
+}
+
+
+#kontaktaufnahmetext{
+  margin: 30px auto 60px auto;
+}
+
+#Trennlinieunten{
+  margin-bottom: 100px;
+}
+
+.button{
+  height: 1em;
+  width: 10%;
+}
+
+
+.btn {
+  background: #914343;
+  background-image: -webkit-linear-gradient(top, #914343, #571c1b);
+  background-image: -moz-linear-gradient(top, #914343, #571c1b);
+  background-image: -ms-linear-gradient(top, #914343, #571c1b);
+  background-image: -o-linear-gradient(top, #914343, #571c1b);
+  background-image: linear-gradient(to bottom, #914343, #571c1b);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ad8880;
+  background-image: -webkit-linear-gradient(top, #ad8880, #b38075);
+  background-image: -moz-linear-gradient(top, #ad8880, #b38075);
+  background-image: -ms-linear-gradient(top, #ad8880, #b38075);
+  background-image: -o-linear-gradient(top, #ad8880, #b38075);
+  background-image: linear-gradient(to bottom, #ad8880, #b38075);
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #a7adad;
+  height: 200px;
+  text-align: center;
+}
+
+#copyright{
+  height: 1em;
+  margin-top: 100px;
+}
+
+.Sociallinks{
+  height:1em;
+  padding-top: 1em;
+}
+
+a{
+  text-decoration: none;
+  color: #5b2423;
+  font-size: 1,5em;
+}
+
+a:hover{
+  color: #f3f4f0;
+}
+
+#instagram{
+  margin-right: 5px;
+}
+
+
+#Webseite{
+  margin-left: 5px;
+}
